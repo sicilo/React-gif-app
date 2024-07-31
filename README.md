@@ -4,7 +4,7 @@
 1. Instalaciones:
 ```
 yarn add --dev jest babel-jest @babel/preset-env @babel/preset-react 
-yarn add --dev @testing-library/react @types/jest jest-environment-jsdom
+yarn add --dev @testing-library/react @types/jest jest-environment-jsdom @testing-library/dom
 ```
 
 2. Opcional: Si usamos Fetch API en el proyecto:
